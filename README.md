@@ -76,7 +76,7 @@ Birthday : Apr 25th, 1993
 
 [[Demo 功能導覽 及 操作流程]](https://www.youtube.com/watch?v=dlNKYBNdBpQ)
 
-[[作品畫面1]](http://www.brtbeacon.com/en/index.shtml) [[作品畫面2]](http://www.brtbeacon.com/en/index.shtml)
+[[作品畫面1]](https://dl.dropboxusercontent.com/u/66340952/Tarzell/Tarzell_01.png) [[作品畫面2]](https://dl.dropboxusercontent.com/u/66340952/Tarzell/Tarzell_02.png)
 
 前端設計課程作品 - 靠杯哀鳳 (2015)
 
