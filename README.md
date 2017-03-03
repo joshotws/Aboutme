@@ -92,6 +92,6 @@ Birthday : Apr 25th, 1993
 [[照片紀錄]](https://github.com/pandao/editor.md)
 
 ### Education & Certifications
-- Bachelor of Arts in Information of Management
-National University of Kaohsiung, Kaohsiung, 2015
+- Bachelor of Arts in Information of Management  
+  National University of Kaohsiung, Kaohsiung, 2015
 - Microsoft Office certification Master, 2012
