@@ -1,17 +1,18 @@
 ## Basic information
 
 
-Name：Josh Wu
-E-mail：joshot.ws@gmail.com
-Mobile：+886 976-291-850
-Line：joshot
-Birthday : Apr 25th, 1993
-現居：高雄市
-希望工作地點：台北市、新北市
+Name：Josh Wu</br>  
+E-mail：joshot.ws@gmail.com</br>  
+Mobile：+886 976-291-850</br>  
+Line：joshot</br>  
+Birthday : Apr 25th, 1993</br>  
+現居：高雄市</br>  
+希望工作地點：台北市、新北市</br>  
+
 
 ### Experience
 
-工程師 ／ 暫不公開 (2016/01~至今)
+工程師 ／ 暫不公開 (2016/01~至今)</br>  
 軟體工程師 ／ 華致資訊服務公司 (2015/03~2015/06)
 
 ### Technical Skills
