@@ -58,8 +58,8 @@ Birthday : Apr 25th, 1993
 適地性訊息推播 app - Binyo (2015)
 - 使用 Ionic framework 開發
 - 是一款 Hybrid app
-- 透過 ibeacon 開發適地訊息推播  [[Beacon]](http://www.brtbeacon.com/en/index.shtml)
-- 使用 Fluid UI 製作 app Prototyping
+- 使用 ibeacon 開發適地訊息推播  [[Beacon]](http://www.brtbeacon.com/en/index.shtml)
+- 透過 Fluid UI 製作 app Prototyping
 
 [[作品畫面1]](https://dl.dropboxusercontent.com/u/66340952/Binyo/binyo_01.jpg) [[作品畫面2]](https://dl.dropboxusercontent.com/u/66340952/Binyo/binyo_02.jpg) [[作品畫面3]](https://dl.dropboxusercontent.com/u/66340952/Binyo/binyo_03.jpg)
 [[作品畫面4]](https://dl.dropboxusercontent.com/u/66340952/Binyo/binyo_04.jpg) [[作品畫面5]](https://dl.dropboxusercontent.com/u/66340952/Binyo/binyo_05.jpg) [[作品畫面6]](https://dl.dropboxusercontent.com/u/66340952/Binyo/binyo_06.jpg)
