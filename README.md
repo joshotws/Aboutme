@@ -45,14 +45,14 @@ Birthday : Apr 25th, 1993
 - 會員註冊 / 登入
 - 相片上傳 及 編輯
 - 串接支付通現金流 API
-- 如需作品展示內容, 可訊息
+- 如需作品展示內容, 可私訊
 
 購物車 (2017)
 - Worldpress
 - 使用 Woo commerce
 - 串接 智付通 API 現金流
 - SSL 憑證安裝 及 環境設定
-- 如需作品展示內容, 可訊息
+- 如需作品展示內容, 可私訊
 
 
 適地性訊息推播 app - Binyo (2015)
@@ -79,9 +79,13 @@ Birthday : Apr 25th, 1993
 [[作品畫面1]](https://dl.dropboxusercontent.com/u/66340952/Tarzell/Tarzell_01.png) [[作品畫面2]](https://dl.dropboxusercontent.com/u/66340952/Tarzell/Tarzell_02.png)
 
 前端設計課程作品 - 靠杯哀鳳 (2015)
+- 使用 Phase 開發購物車 及 會員系統
+[[作品畫面1]](https://dl.dropboxusercontent.com/u/66340952/Fkiphone/Fkiphone_01.png) 
 
 前端設計課程作品 - PSD 轉 HTML (2015)
-
+[[作品畫面_01]](https://dl.dropboxusercontent.com/u/66340952/PSD_2_HTML/PSD2HTML_01.png) 
+[[作品連結_01]](http://joswkws.github.io/homework01/) 
+[[作品連結_02]](http://joswkws.github.io/homework2/)  
 
 
 ## 參加過的社群 或 研討會
