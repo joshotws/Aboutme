@@ -48,7 +48,7 @@ Birthday : Apr 25th, 1993
 - 如需作品展示內容, 可私訊
 
 購物車 (2017)
-- Worldpress
+- Wordpress
 - 使用 Woo commerce
 - 串接 智付通 API 現金流
 - SSL 憑證安裝 及 環境設定
