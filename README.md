@@ -91,10 +91,13 @@ Birthday : Apr 25th, 1993
 
 ## 參加過的社群 或 研討會
 
+- Sophos XG UTM 用戶教育訓練 - 03/09/2017  
+[[照片紀錄]](https://dl.dropboxusercontent.com/u/66340952/Seminar/seminar_04.jpg)
 - Kaohsiung Python Meetup - Django 上線去 + 用 Python 做股票量化投資 - 12/19/2016
-[[照片紀錄]](https://github.com/pandao/editor.md)
+[[照片紀錄]](https://dl.dropboxusercontent.com/u/66340952/Seminar/seminar_03.jpg)
 - Webduino blockly 功能升級大解密 - 04/13/2016
-[[照片紀錄]](https://github.com/pandao/editor.md)
+[[照片紀錄_01]](https://dl.dropboxusercontent.com/u/66340952/Seminar/seminar_01.jpg)
+[[照片紀錄_02]](https://dl.dropboxusercontent.com/u/66340952/Seminar/seminar_02.jpg)
 
 ### Education & Certifications
 - Bachelor of Arts in Information of Management  
