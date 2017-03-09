@@ -40,14 +40,14 @@ Birthday : Apr 25th, 1993
 
 ## 開發經歷
 
-雲端結婚紀念相簿 (2016~2017)
+### 雲端結婚紀念相簿 (2016~2017)
 - 獨立開發產品至上線
 - 會員註冊 / 登入
 - 相片上傳 及 編輯
 - 串接智付通現金流 API
 - 如需作品展示內容, 可私訊
 
-購物車 (2017)
+### 購物車 (2017)
 - Wordpress
 - 使用 Woo commerce
 - 串接 智付通 API 現金流
@@ -55,7 +55,7 @@ Birthday : Apr 25th, 1993
 - 如需作品展示內容, 可私訊
 
 
-適地性訊息推播 app - Binyo (2015)
+### 適地性訊息推播 app - Binyo (2015)
 - 使用 Ionic framework 開發
 - 是一款 Hybrid app
 - 使用 ibeacon 開發適地訊息推播  [[Beacon]](http://www.brtbeacon.com/en/index.shtml)
@@ -64,7 +64,7 @@ Birthday : Apr 25th, 1993
 [[作品畫面1]](https://dl.dropboxusercontent.com/u/66340952/Binyo/binyo_01.jpg) [[作品畫面2]](https://dl.dropboxusercontent.com/u/66340952/Binyo/binyo_02.jpg) [[作品畫面3]](https://dl.dropboxusercontent.com/u/66340952/Binyo/binyo_03.jpg)
 [[作品畫面4]](https://dl.dropboxusercontent.com/u/66340952/Binyo/binyo_04.jpg) [[作品畫面5]](https://dl.dropboxusercontent.com/u/66340952/Binyo/binyo_05.jpg) [[作品畫面6]](https://dl.dropboxusercontent.com/u/66340952/Binyo/binyo_06.jpg)
 
-課程管理系統 - F.U.C.K. (face ur class & knowledge) (2014 - 2015)
+### 課程管理系統 - F.U.C.K. (face ur class & knowledge) (2014 - 2015)
 
 
 - 獲國科會補助計畫
@@ -78,11 +78,11 @@ Birthday : Apr 25th, 1993
 
 [[作品畫面1]](https://dl.dropboxusercontent.com/u/66340952/Tarzell/Tarzell_01.png) [[作品畫面2]](https://dl.dropboxusercontent.com/u/66340952/Tarzell/Tarzell_02.png)
 
-前端設計課程作品 - 靠杯哀鳳 (2015)
+### 前端設計課程作品 - 靠杯哀鳳 (2015)
 - 使用 Phase 開發購物車 及 會員系統
 [[作品畫面1]](https://dl.dropboxusercontent.com/u/66340952/Fkiphone/Fkiphone_01.png) 
 
-前端設計課程作品 - PSD 轉 HTML (2015)  
+### 前端設計課程作品 - PSD 轉 HTML (2015)  
 [[作品畫面_01]](https://dl.dropboxusercontent.com/u/66340952/PSD_2_HTML/PSD2HTML_01.png) 
 [[作品連結_01]](http://joswkws.github.io/homework01/)  
 [[作品畫面_02]](https://dl.dropboxusercontent.com/u/66340952/PSD_2_HTML/PSD2HTML_02.png) 
@@ -91,7 +91,7 @@ Birthday : Apr 25th, 1993
 
 ## 參加過的社群 或 研討會
 
-- Sophos XG UTM 用戶教育訓練 - 03/09/2017[[照片紀錄]](https://dl.dropboxusercontent.com/u/66340952/Seminar/seminar_04.jpg)
+- Sophos XG UTM 用戶教育訓練 - 03/09/2017 [[照片紀錄]](https://dl.dropboxusercontent.com/u/66340952/Seminar/seminar_04.jpg)
 - Kaohsiung Python Meetup - Django 上線去 + 用 Python 做股票量化投資 - 12/19/2016
 [[照片紀錄]](https://dl.dropboxusercontent.com/u/66340952/Seminar/seminar_03.jpg)
 - Webduino blockly 功能升級大解密 - 04/13/2016
