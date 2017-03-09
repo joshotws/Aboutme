@@ -47,6 +47,8 @@ Birthday : Apr 25th, 1993
 - 串接智付通現金流 API
 - 如需作品展示內容, 可私訊
 
+[[Demo 導覽簡介]](https://www.youtube.com/watch?v=t1MMAP41bqM)
+
 #### 購物車 (2017)
 - Wordpress
 - 使用 Woo commerce
