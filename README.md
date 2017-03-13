@@ -7,8 +7,7 @@ Mobile：+886 976-291-850
 Line：joshot  
 Birthday : Apr 25th, 1993  
 現居：高雄市  
-希望工作地點：台北市、新北市  
-期望薪資：55~70w /year(這是個參考數字，很重視工作環境、氣氛因此都絕對有彈性)  
+希望工作地點：台北市、新北市    
 
 
 ### Experience
@@ -105,3 +104,6 @@ Birthday : Apr 25th, 1993
 - Bachelor of Arts in Information of Management  
   National University of Kaohsiung, Kaohsiung, 2015
 - Microsoft Office certification Master, 2012
+
+#### 期望薪資  
+55~70w /year(這是個參考數字，很重視工作環境、氣氛因此都絕對有彈性) 
