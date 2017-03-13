@@ -106,4 +106,4 @@ Birthday : Apr 25th, 1993
 - Microsoft Office certification Master, 2012
 
 #### 期望薪資  
-55~70w /year(這是個參考數字，很重視工作環境、氣氛因此都絕對有彈性) 
+55~70w/year (這是個參考數字，很重視工作環境、氣氛因此都絕對有彈性) 
